@@ -1,0 +1,17 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_11_1272)">
+<path d="M75 125H45" stroke="#FAFAFC" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M75 125H45" stroke="black" stroke-opacity="0.2" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M115 125H100" stroke="#FAFAFC" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M115 125H100" stroke="black" stroke-opacity="0.2" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 150H65" stroke="#FAFAFC" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100 150H65" stroke="black" stroke-opacity="0.2" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M55 57.5C55 49.0943 57.4926 40.8774 62.1625 33.8883C66.8325 26.8992 73.4701 21.4519 81.236 18.2351C89.0018 15.0184 97.5471 14.1768 105.791 15.8166C114.036 17.4565 121.608 21.5043 127.552 27.448C133.496 33.3917 137.544 40.9645 139.183 49.2087C140.823 57.4529 139.982 65.9982 136.765 73.7641C133.548 81.5299 128.101 88.1675 121.112 92.8375C114.123 97.5074 105.906 100 97.5 100H47.5C40.2065 100 33.2118 97.1027 28.0546 91.9455C22.8973 86.7882 20 79.7935 20 72.5C20 65.2066 22.8973 58.2118 28.0546 53.0546C33.2118 47.8973 40.2065 45 47.5 45C50.5431 44.9844 53.5663 45.4917 56.4375 46.5" fill="#FAFAFC"/>
+<path d="M55 57.5C55 49.0943 57.4926 40.8774 62.1625 33.8883C66.8325 26.8992 73.4701 21.4519 81.236 18.2351C89.0018 15.0184 97.5471 14.1768 105.791 15.8166C114.036 17.4565 121.608 21.5043 127.552 27.448C133.496 33.3917 137.544 40.9645 139.183 49.2087C140.823 57.4529 139.982 65.9982 136.765 73.7641C133.548 81.5299 128.101 88.1675 121.112 92.8375C114.123 97.5074 105.906 100 97.5 100H47.5C40.2065 100 33.2118 97.1027 28.0546 91.9455C22.8973 86.7882 20 79.7935 20 72.5C20 65.2066 22.8973 58.2118 28.0546 53.0546C33.2118 47.8973 40.2065 45 47.5 45C50.5431 44.9844 53.5663 45.4917 56.4375 46.5" stroke="#FAFAFC" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<clipPath id="clip0_11_1272">
+<rect width="160" height="160" fill="white"/>
+</clipPath>
+</defs>
+</svg>
